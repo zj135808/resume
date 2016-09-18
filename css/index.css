@@ -10,7 +10,7 @@ html {
 }
 .main {
     position: relative;
-    top:-.6rem;
+    padding-top:.6rem;
     margin: 0 auto;
     width: 100%;
     height: 80%;
@@ -21,7 +21,7 @@ html {
 .music {
     display: none;
     position: absolute;
-    top: .8rem;
+    top: .2rem;
     right: .2rem;
     z-index: 1000;
     width: .6rem;
